@@ -43,7 +43,7 @@ $$b_2 := b_2 - \alpha \frac{\partial \text{MSE}}{\partial b_2}$$
 
 Where $\( \alpha \)$ is the learning rate.
 
-## Python Example
+## Implementation
 
 ```python
 import numpy as np

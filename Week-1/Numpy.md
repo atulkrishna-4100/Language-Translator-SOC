@@ -1,3 +1,5 @@
+## Numpy
+``` python
 # Set up
 import numpy as np
 # Scalar

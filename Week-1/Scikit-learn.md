@@ -1,3 +1,4 @@
+``` python
 # Loading and Splitting the Iris dataset
 from sklearn.datasets import load_iris
 iris = load_iris()
@@ -15,7 +16,7 @@ print(X_test.shape)
 print(y_train.shape)
 print(y_test.shape)
 
-# There are lot of Machine learning models in Scikit-learn
+# There are lot of Machine learning models in Scikit-learn. I'm using Multinomial Naive Bayes
 import pandas as pd
 import numpy as np
 df = pd.read_csv("spam.csv")
